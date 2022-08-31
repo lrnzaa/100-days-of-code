@@ -19,7 +19,7 @@ I've started coding again after a long time and I feel great that I can solve pr
 a
 
 **Thoughts**\
-a
+A bit
 
 **Link(s) to work**\
 1. 
