@@ -21,7 +21,7 @@ I create a Word Count and Palindrome Checker. Today I also do some challenges in
 **Thoughts**\
 A bit lost on what I must do but I still manage to code some simple program.
 
-**Link(s) to work**\
+**Link(s) to work**
 1. -
 
 
@@ -33,7 +33,7 @@ I learn about python date time. I create a countdown timer.
 **Thoughts**\
 I'm more learning by practicing code so I tried to code even a simple program.
 
-**Link(s) to work**\
+**Link(s) to work**
 1. -
 
 
@@ -45,7 +45,7 @@ a
 **Thoughts**\
 a
 
-**Link(s) to work**\
+**Link(s) to work**
 1. 
 
 
@@ -57,6 +57,6 @@ a
 **Thoughts**\
 a
 
-**Link(s) to work**\
+**Link(s) to work**
 1. 
 2. 
