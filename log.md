@@ -37,19 +37,19 @@ I'm more learning by practicing code so I tried to code even a simple program.
 1. -
 
 
-### Day 4: September 2, Friday
+### Day 4: September 7, Wednesday
 
 **Today's Progress**:\
-a
+I'm starting the path for full stack and I'm learning to create projects from HTML, CSS, and JavaScript. Today I created html pages for recipes project from The Odin Project.
 
 **Thoughts**\
-a
+Learning to create web is fun!
 
 **Link(s) to work**
-1. 
+1. The Odin Project (https://www.theodinproject.com/)
 
 
-### Day 5: September 3, Saturday
+### Day 5: September 8, Thursday
 
 **Today's Progress**:\
 a
@@ -60,3 +60,14 @@ a
 **Link(s) to work**
 1. 
 2. 
+
+### Day 5: September 9, Friday
+
+**Today's Progress**:\
+a
+
+**Thoughts**\
+a
+
+**Link(s) to work**
+1. 
